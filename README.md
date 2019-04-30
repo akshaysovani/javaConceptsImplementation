@@ -1,2 +1,1 @@
-# javaConceptsImplementation
-Implementations of various Core and Advanced Java concepts
+This repository consists of implementations of multiple Java concepts.
